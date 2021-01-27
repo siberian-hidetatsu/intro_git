@@ -3,3 +3,4 @@ Gitの練習をします。
 git add . でステージング エリアに移動する。
 git commit
 git rm
+git status
